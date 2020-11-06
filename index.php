@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <h2><a href="index2.php">LINK TO LAB2</a></h2>
     <div class="container">
     <div class="row">
         <div class="col-sm-6">
